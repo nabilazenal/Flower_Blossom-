@@ -25,7 +25,7 @@ button {
 
 button:hover {
     background-color: #DC143C;
-    color: white;
+    color: red;
 }
 
 /* Extra styles for the cancel button */
